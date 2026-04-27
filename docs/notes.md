@@ -1,3 +1,3 @@
 # Notas
 
-CLI que valida e resume em linguagem natural uma expressão cron de 5 campos.
+Serviço HTTP mínimo com GET /health devolvendo JSON de estado (sem dependências externas).
