@@ -1,3 +1,3 @@
 # Notas
 
-Serviço HTTP mínimo com GET /health devolvendo JSON de estado (sem dependências externas).
+Endpoints /health e /ready, métricas Prometheus-style ou estrutura preparada, logging correlacionado por request-id.
