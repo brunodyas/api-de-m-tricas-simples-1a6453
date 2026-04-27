@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-api-de-m-tricas-simples-1a6453\\djenus_csharp_api_de_m_tricas_simples_1a6453.csproj",
-      "projectName": "djenus_csharp_api_de_m_tricas_simples_1a6453",
-      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-api-de-m-tricas-simples-1a6453\\djenus_csharp_api_de_m_tricas_simples_1a6453.csproj",
+      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\api-de-m-tricas-simples-1a6453\\api_de_m_tricas_simples_1a6453.csproj",
+      "projectName": "api_de_m_tricas_simples_1a6453",
+      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\api-de-m-tricas-simples-1a6453\\api_de_m_tricas_simples_1a6453.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-api-de-m-tricas-simples-1a6453\\obj\\",
+      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\api-de-m-tricas-simples-1a6453\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
