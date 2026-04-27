@@ -1,0 +1,4 @@
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-de-m-tricas-simples-1a6453\obj\Debug\net8.0\djenus_csharp_api_de_m_tricas_simples_1a6453.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-de-m-tricas-simples-1a6453\obj\Debug\net8.0\djenus_csharp_api_de_m_tricas_simples_1a6453.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-de-m-tricas-simples-1a6453\obj\Debug\net8.0\djenus_csharp_api_de_m_tricas_simples_1a6453.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-de-m-tricas-simples-1a6453\obj\Debug\net8.0\djenus_csharp_api_de_m_tricas_simples_1a6453.csproj.CoreCompileInputs.cache
